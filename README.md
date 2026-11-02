@@ -1,86 +1,48 @@
-<div align="center" style="background:#020b13; padding: 24px 18px 32px; border-radius: 18px;">
-  <table width="100%" style="max-width: 1100px; background: linear-gradient(180deg, rgba(3,24,35,1) 0%, rgba(0,17,26,1) 100%); border: 1px solid rgba(88,216,255,0.50); border-radius: 20px; box-shadow: 0 0 0 1px rgba(92,188,255,0.10), inset 0 0 18px rgba(50,180,255,0.07);">
-    <tr>
-      <td style="padding: 28px 36px;">
-        <table width="100%">
-          <tr>
-            <td style="vertical-align: middle;">
-              <div style="font-family: 'Segoe UI', Arial, sans-serif; color: #e8f6ff; font-weight: 800; font-size: 54px; line-height: 1.1; letter-spacing: -2px;">
-                Juan Cruz Gentile
-              </div>
-              <div style="font-family: 'Segoe UI', Arial, sans-serif; color: #d8ecf3; font-weight: 400; font-size: 30px; line-height: 1.3; margin-top: 10px; letter-spacing: -0.6px; opacity: 0.96;">
-                Learning deeply. Building with purpose.
-              </div>
-            </td>
-            <td align="right" style="vertical-align: middle; width: 220px;">
-              <div style="font-family: 'Consolas', 'Courier New', monospace; color: #51d8ff; font-size: 78px; font-weight: 800; letter-spacing: -4px; text-shadow: 0 0 18px rgba(81,216,255,0.9);">
-                &lt;/&gt;
-              </div>
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="assets/banner.svg" alt="Juan Cruz Gentile — Learning deeply. Building with purpose." width="100%" />
+</p>
 
-<div style="max-width: 1100px; margin: 30px auto 0; color: #e7edf4; font-family: 'Segoe UI', Arial, sans-serif;">
-  <h1 style="margin: 0; font-size: 62px; line-height: 1.1; letter-spacing: -2.4px; font-weight: 800; color: #eaf1f6;">
-    Hi, I’m Juan Cruz
-  </h1>
-  <div style="margin-top: 8px; font-size: 30px; color: #dfeaf2; opacity: 0.95; font-weight: 500; letter-spacing: -1px;">
-    Self-taught developer
-  </div>
+# Hi, I'm Juan Cruz
 
-  <p style="margin-top: 26px; margin-bottom: 0; font-size: 28px; line-height: 1.5; color: #dfeaf1; letter-spacing: -0.8px; max-width: 980px;">
-    Building projects with AI assistance while strengthening my programming fundamentals.
-  </p>
+**Self-taught developer · Building projects and strengthening my foundations**
 
-  <div style="border-top: 1px solid rgba(162,184,198,0.32); margin-top: 42px; margin-bottom: 26px;"></div>
+I enjoy turning ideas into working software. I learn through hands-on projects, persistence, and a willingness to revisit what I don't yet understand.
 
-  <h2 style="margin: 0; font-size: 52px; line-height: 1.2; letter-spacing: -2px; font-weight: 800; color: #edf3f7;">
-    Selected projects
-  </h2>
+I use AI-assisted development to explore ideas and build projects. I'm still early in my journey, and my focus is to better understand the code I work with, strengthen my programming fundamentals, and gain practical experience.
 
-  <div style="margin-top: 26px; border-top: 1px solid rgba(162,184,198,0.32); padding-top: 24px;">
-    <div style="font-size: 35px; font-weight: 800; letter-spacing: -1.2px; margin-bottom: 10px; color: #edf3f7;">
-      <span style="color: #52dfff;">N.E.O.</span>-type
-    </div>
-    <div style="font-size: 26px; color: #dfeaf1; margin-bottom: 6px; opacity: 0.95; letter-spacing: -0.6px;">
-      Typing practice for programmers
-    </div>
-    <div style="font-size: 24px; color: #dfeaf1; opacity: 0.9; letter-spacing: -0.6px;">
-      React · TypeScript · Vite
-    </div>
-  </div>
+I'm looking for opportunities to contribute to well-defined tasks, learn from feedback, and grow alongside a team.
 
-  <div style="border-top: 1px solid rgba(162,184,198,0.32); margin-top: 34px; padding-top: 26px;">
-    <div style="font-size: 35px; font-weight: 800; letter-spacing: -1.2px; margin-bottom: 10px; color: #edf3f7;">
-      <span style="color: #52dfff;">Cerberus</span>
-    </div>
-    <div style="font-size: 26px; color: #dfeaf1; margin-bottom: 6px; opacity: 0.95; letter-spacing: -0.6px;">
-      Event ingestion, alerts, and search
-    </div>
-    <div style="font-size: 24px; color: #dfeaf1; opacity: 0.9; letter-spacing: -0.6px;">
-      C · Go · Rust · SQLite
-    </div>
-  </div>
+## Selected projects
 
-  <div style="border-top: 1px solid rgba(162,184,198,0.32); margin-top: 42px; margin-bottom: 24px;"></div>
+### [N.E.O.-type](https://github.com/juancruzgentile/N.E.O.-type)
 
-  <h2 style="margin: 0; font-size: 58px; line-height: 1.2; letter-spacing: -2.2px; font-weight: 800; color: #edf3f7;">
-    How I learn
-  </h2>
+A typing practice application for programmers, built with AI assistance. It brings together code-based exercises, adaptive progression, and practice statistics in an offline experience.
 
-  <ul style="margin-top: 20px; padding-left: 34px; font-size: 28px; line-height: 1.9; color: #e6eef4; letter-spacing: -0.7px;">
-    <li>Build, explore, and ask questions</li>
-    <li>Learn from feedback</li>
-    <li>Stay consistent through challenges</li>
-  </ul>
+**Technologies used in the project:** React, TypeScript, Vite.
 
-  <div style="border-top: 1px solid rgba(162,184,198,0.32); margin-top: 34px; margin-bottom: 26px;"></div>
+[Explore the project →](https://github.com/juancruzgentile/N.E.O.-type)
 
-  <div style="font-size: 52px; line-height: 1.2; letter-spacing: -2.2px; font-weight: 800; color: #52dfff; margin-top: 18px;">
-    Open to junior opportunities.
-  </div>
-</div>
+### [Cerberus](https://github.com/juancruzgentile/Cerberus)
+
+A project built with AI assistance to explore event ingestion, alert delivery, and full-text search across cooperating services.
+
+**Technologies used in the project:** C, Go, Rust, SQLite.
+
+[Explore the project →](https://github.com/juancruzgentile/Cerberus)
+
+## How I approach learning
+
+- Build something concrete, then study the concepts behind it.
+- Break unfamiliar problems into smaller steps.
+- Ask questions and use feedback to improve.
+- Keep working through obstacles and revisit assumptions when needed.
+
+## Current focus
+
+Programming fundamentals, debugging, testing, and understanding how application components fit together.
+
+## Opportunities
+
+Interested in junior roles and small, clearly scoped development tasks where I can contribute honestly and keep learning.
+
+You can see my work and follow my progress in the repositories below.
